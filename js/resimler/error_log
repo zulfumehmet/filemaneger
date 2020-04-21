@@ -1,0 +1,144 @@
+[18-Apr-2020 20:42:05 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:42:05 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:42:05 UTC] PHP Warning:  include(): Failed opening '../../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:42:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:42:40 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:42:40 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:42:40 UTC] PHP Warning:  include(): Failed opening '../../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:43:02 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:43:02 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:43:02 UTC] PHP Warning:  include(): Failed opening '../../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:43:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:43:46 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:43:46 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:43:46 UTC] PHP Warning:  include(): Failed opening '../../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:44:52 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:44:52 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:44:52 UTC] PHP Warning:  include(): Failed opening '../../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:45:46 UTC] PHP Warning:  include(../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:45:46 UTC] PHP Warning:  include(../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:45:46 UTC] PHP Warning:  include(): Failed opening '../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:46:16 UTC] PHP Warning:  include(../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:46:16 UTC] PHP Warning:  include(../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:46:16 UTC] PHP Warning:  include(): Failed opening '../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:46:18 UTC] PHP Warning:  include(../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:46:18 UTC] PHP Warning:  include(../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:46:18 UTC] PHP Warning:  include(): Failed opening '../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:47:20 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:47:20 UTC] PHP Warning:  include(../../../inc/functions.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:47:20 UTC] PHP Warning:  include(): Failed opening '../../../inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:47:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 109
+[18-Apr-2020 20:49:12 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:49:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:49:14 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:49:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 22
+[18-Apr-2020 20:50:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function oturumKontrol() in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 3
+[18-Apr-2020 20:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function oturumKontrol() in /home2/alpervsa/public_html/boynici/assets/resimler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/index.php on line 3
+[18-Apr-2020 20:56:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home2/alpervsa/public_html/boynici/assets/resimler/class.upload.php on line 606
+[18-Apr-2020 20:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/alpervsa/public_html/boynici/assets/resimler/aupload.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/assets/resimler/aupload.php on line 83
+[18-Apr-2020 21:00:51 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 1
+[18-Apr-2020 21:00:51 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 1
+[18-Apr-2020 21:01:23 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 1
+[18-Apr-2020 21:01:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 1
+[18-Apr-2020 21:01:28 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 1
+[18-Apr-2020 21:01:28 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 1
+[18-Apr-2020 21:02:07 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:02:07 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:02:11 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:02:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:02:26 UTC] PHP Warning:  require_once(/../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:02:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:03:14 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:03:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:04:32 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:04:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/index.php on line 2
+[18-Apr-2020 21:46:55 UTC] PHP Recoverable fatal error:  Object of class PDO could not be converted to string in /home2/alpervsa/public_html/boynici/resimler/ac.php on line 110
+[18-Apr-2020 21:47:36 UTC] PHP Warning:  require_once(../inc/fonksiyon.php): failed to open stream: No such file or directory in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 2
+[18-Apr-2020 21:47:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../inc/fonksiyon.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 2
+[18-Apr-2020 21:48:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home2/alpervsa/public_html/boynici/resimler/class.upload.php on line 606
+[18-Apr-2020 21:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/resimler/aupload.php:88
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 88
+[18-Apr-2020 21:49:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home2/alpervsa/public_html/boynici/resimler/class.upload.php on line 606
+[18-Apr-2020 21:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/resimler/aupload.php:88
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 88
+[18-Apr-2020 21:51:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home2/alpervsa/public_html/boynici/resimler/class.upload.php on line 606
+[18-Apr-2020 21:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/resimler/aupload.php:88
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 88
+[18-Apr-2020 21:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/alpervsa/public_html/boynici/resimler/aupload.php:88
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 88
+[18-Apr-2020 21:56:27 UTC] PHP Warning:  Use of undefined constant large - assumed 'large' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 90
+[18-Apr-2020 21:56:27 UTC] PHP Warning:  Use of undefined constant small - assumed 'small' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 92
+[18-Apr-2020 21:56:27 UTC] PHP Warning:  Use of undefined constant large - assumed 'large' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 96
+[18-Apr-2020 21:56:27 UTC] PHP Warning:  Use of undefined constant small - assumed 'small' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 96
+[19-Apr-2020 08:16:40 UTC] PHP Warning:  Use of undefined constant large - assumed 'large' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 90
+[19-Apr-2020 08:16:40 UTC] PHP Warning:  Use of undefined constant small - assumed 'small' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 92
+[19-Apr-2020 08:16:40 UTC] PHP Warning:  Use of undefined constant large - assumed 'large' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 96
+[19-Apr-2020 08:16:40 UTC] PHP Warning:  Use of undefined constant small - assumed 'small' (this will throw an Error in a future version of PHP) in /home2/alpervsa/public_html/boynici/resimler/aupload.php on line 96
+[19-Apr-2020 09:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/alpervsa/public_html/boynici/resimler/sil.php:80
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 80
+[19-Apr-2020 09:05:00 UTC] PHP Warning:  unlink(../../image/upload//): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 91
+[19-Apr-2020 09:05:00 UTC] PHP Warning:  unlink(../../image/upload//thumbnail/): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 93
+[19-Apr-2020 09:05:03 UTC] PHP Warning:  unlink(../../image/upload//): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 91
+[19-Apr-2020 09:05:03 UTC] PHP Warning:  unlink(../../image/upload//thumbnail/): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 93
+[19-Apr-2020 09:06:42 UTC] PHP Warning:  unlink(../../image/upload//): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 90
+[19-Apr-2020 09:06:42 UTC] PHP Warning:  unlink(../../image/upload//thumbnail/): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 92
+[19-Apr-2020 09:09:44 UTC] PHP Warning:  unlink(../../image/upload//Ekran_Resmi_2020-04-18_00.03.01.png): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 90
+[19-Apr-2020 09:09:44 UTC] PHP Warning:  unlink(../../image/upload//thumbnail/Ekran_Resmi_2020-04-18_00.03.01_thumbnial.png): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 92
+[19-Apr-2020 09:10:21 UTC] PHP Warning:  unlink(../../image/upload/2/Ekran_Resmi_2020-04-18_00.03.01.png): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 90
+[19-Apr-2020 09:10:21 UTC] PHP Warning:  unlink(../../image/upload/2/thumbnail/Ekran_Resmi_2020-04-18_00.03.01_thumbnial.png): No such file or directory in /home2/alpervsa/public_html/boynici/resimler/sil.php on line 92
+[19-Apr-2020 13:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/alpervsa/public_html/boynici/resimler/liste.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/alpervsa/public_html/boynici/resimler/liste.php on line 28
